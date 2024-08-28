@@ -1,0 +1,310 @@
+h5, .exp-wc-cart-collaterals-inner .cart_totals h2, .woocommerce-billing-fields h3, .exp-wc-cart-title, #ship-to-different-address, .woocommerce-customer-details .woocommerce-column__title, .woocommerce-account.woocommerce-edit-address h3, #order_review_heading, .exp-posts-nav-post-title, .h5{
+	font-size:25px;
+	font-weight:normal
+}
+
+#order_review_heading{
+	text-align:right;
+	margin-bottom:15px;
+	margin-top:10px;
+}
+
+.exp-success-message {margin-left:20px;
+	margin-right:20px;margin-bottom:0;margin-top:20px;}
+
+.exp-checkout-review-order{
+	margin-bottom:-30px;
+}
+
+
+.bxc-main > div {
+    margin-top: 0 !important;
+    border-radius: 14px;
+	margin-bottom:-30px;
+	font-family:Inter,Sans-serif!important;
+}
+
+@media(max-width:500px){
+	
+	.bxc-main > div {;
+	margin-bottom:0px;
+}
+	
+	.exp-checkout-review-order{
+	margin-top:-40px!important;
+}
+}
+
+#error_message{
+	text-align:center;
+}
+
+.be-themes-content-padding{
+	padding-top:25px;
+}
+
+#moon_meter_investment_amount{
+	padding:0;
+}
+
+.gt_float_switcher .gt-selected .gt-current-lang{
+  border-radius:14px!important;}
+
+
+div#moon_meter_bnky_value{
+	line-height:40px!important;
+}
+
+
+.glass-morphism{backdrop-filter: saturate(230%) blur(20px);
+	-webkit-backdrop-filter: saturate(230%) blur(20px);}
+
+.woocommerce-billing-fields input,.woocommerce-checkout .select2-container--default .select2-selection--single .select2-selection__rendered{
+	border-radius:9px;
+	border: solid 1px #1d1d1d;
+	background: #1d1d1d;
+	box-shadow:none;
+	color:#fff;
+	font-family:Inter, Sans serif;
+	font-weight:normal;
+	
+}
+.woocommerce-form-coupon-toggle,.woocommerce-additional-fields,.woocommerce-shipping-fields{
+	display:none;
+}
+.woocommerce-checkout .form-row-last,.woocommerce-checkout .form-row-first{
+	padding-left:0;
+	width:100%;
+	padding-right:0;
+}
+
+.woocommerce-billing-fields h3{
+	font-size:25px;
+	color:#fff;
+}
+
+.exp-checkout-review-order{
+	border-radius:24px;
+	margin-top:40px;
+	font-family:Inter, Sans serif;
+	padding: 30px;
+}
+
+.woocommerce-privacy-policy-text{
+	font-size:12px;
+	line-height:20px;
+}
+
+.woocommerce-checkout-review-order-table{
+	font-family:Inter, Sans serif!important;
+}
+
+button[name = "woocommerce_checkout_place_order"].button {
+    text-transform: Capitalize;
+    font-weight: 500;
+	border-radius:9px;
+}
+
+button[name = "woocommerce_checkout_place_order"].button:hover {
+    text-transform: Capitalize;
+    font-weight: 500;
+	border-radius:9px;
+	    box-shadow: 0px 0px 55px 0px rgba(0, 73, 255, 1);
+}
+
+.woocommerce-checkout-review-order-table {
+    margin-bottom: 10px;
+}
+
+#payment > div {
+    margin-bottom: 0;
+}
+
+
+
+#be-content > div > div.tatsu-section-pad.clearfix > div > div > div.tatsu-column.tatsu-bg-overlay.tatsu-one-third.tatsu-column-image-none.tatsu-column-effect-none.tatsu-rygPKFbWjA > div > div.tatsu-column-pad-wrap > div > div > div > div > div > div.tatsu-column-pad-wrap > div > div > div > div > div:nth-child(7) > div{
+	background: linear-gradient(270deg, rgba(19, 236, 171, 1) 0%, rgba(183, 13, 216, 1) 100%);
+}
+
+.bnky-token-sale-form{
+	text-align:center;
+}
+
+input#dollar_value,#bnky_amount{
+	text-align:center!important;
+	font-size:20px;
+	border-radius:14px!important;
+	border: solid 2px rgba(224,224,224,0.25);
+	box-shadow:none;
+}
+
+.exp-wc-product-footer,.exp-success-message .exp-success-message__content{
+	display:none;
+}
+
+.cart .single_add_to_cart_button{
+	margin-top:15px!important;
+	display:block;
+	width:100%;
+}
+
+.quantity,#product-746 > div > div.summary.entry-summary > div > form > button.single_add_to_cart_button.button.alt{
+	display:none;
+}
+
+.cart{
+	display:block;
+}
+
+.exp-form-rounded input,.exp-form-rounded textarea, .exp-form-rounded select {
+    background-color: #fff; 
+}
+
+@media (max-width: 1366px){
+	.tatsu-wrap, .exp-wrap{
+		max-width: 1200px;
+	}
+
+}
+
+@media (max-width: 1536px){
+	.tatsu-wrap, .exp-wrap{
+		max-width: 1200px;
+	}
+
+}
+
+
+
+
+
+
+.tatsu-menu-widget a{
+	font-size:16px!important;
+}
+
+div.wpforms-container-full .wpforms-form .wpforms-submit-container button[type=submit]{
+		padding: 15px 36px!important;
+min-width:200px;
+	height:50px;
+	border-radius:12px;
+	
+}
+
+
+
+td.ctrl.text-left.all:before{
+		 display:none!important;
+	 }
+.cryptoboxes table.dataTable.dtr-column.collapsed > tbody > tr > td.ctrl{
+	padding-left:5px;
+}
+
+
+html,body,h1,h2,h3,h4,h5,h6,p,btn,a{font-weight:normal}
+
+
+#tatsu-header-wrap.stuck .tatsu-header:last-child,.blurring {
+    background-color: rgba(22, 22, 23, .8) !important;
+    backdrop-filter: saturate(230%) blur(20px);
+    -webkit-backdrop-filter: saturate(230%) blur(20px);
+}
+
+
+.mcw-table{
+	box-shadow:none!important;
+	border:none;
+	
+}
+
+#DataTables_Table_0 > tbody > tr{
+	border-radius:12px;
+}
+
+#DataTables_Table_0 > thead,.mcw-table .dataTables-footer, .text-left.min-tablet-p,.chart-wrapper{
+	display:none;
+}
+
+.tatsu-button{
+	min-width:150px;
+	text-align:center;
+}
+
+@media (max-width: 400px){
+.tatsu-button{
+	min-width:100px;
+	text-align:center;
+	}
+	.mediumbtn,.largebtn{
+		width:100%;
+	}
+	.tatsu-tc.small.plain{
+		padding-left:0!important;
+	}
+
+}
+
+ @media only screen and (max-width: 1200px) {
+     .tatsu-wrap, .exp-wrap {
+         max-width: 1000px;
+         margin: 0 auto;
+    }
+}
+
+ @media only screen and (max-width: 767px) {
+     .tatsu-wrap, .exp-wrap {
+         max-width: 380px;
+         margin: 0 auto;
+    }
+}
+ @media screen and (max-width: 600px) {
+     .tatsu-wrap, .exp-wrap {
+         max-width: 340px;
+         margin: 0 auto;
+    }
+     .exp-post-title {
+         font-size: 25px;
+    }
+     .tatsu-button-group .tatsu-button-wrap, .tatsu-SkRKkAet3 .tatsu-button, .tatsu-S1gRty0xFn .tatsu-button, .tatsu-HybNRFF8n .tatsu-button, .tatsu-H1ZFfBBYn .tatsu-button {
+         width: 100%;
+         text-align: center;
+    }
+}
+ @media only screen and (max-width: 374px) {
+     .tatsu-wrap, .exp-wrap {
+         max-width: 300px;
+         margin: 0 auto;
+    }
+
+}
+ @media (min-width: 1600px) {
+     .tatsu-wrap {
+         max-width: 1200px;
+    }
+}
+ .mediumbtn {
+     padding: 17px 37px;
+}
+ .tatsu-button.rounded {
+     border-radius: 9px 
+}
+ .largebtn {
+     padding: 21px 35px;
+}
+ #tatsu-header-wrap.stuck .tatsu-header:last-child {
+     box-shadow: none;
+}
+ .tatsu-tabs .ui-tabs .ui-tabs-panel {
+     color: #F7F7F7;
+}
+ .exp-wc-checkout-header, .exp-wc-cart-header {
+     display: none;
+}
+ .tatsu-list-inner {
+     color: white;
+}
+
+.tatsu-button-wrap.blockbtn .tatsu-button, .tatsu-button.blockbtn,.tatsu-normal-button .tatsu-button{
+	padding: 15px 36px!important;
+min-width:200px;}
+}
